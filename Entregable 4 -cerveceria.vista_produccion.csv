@@ -1,0 +1,4 @@
+_id,id,nombre,cant_producida,receta[0].id_receta,receta[1].id_receta,receta[2].id_receta,receta[0].id_mp,receta[2].id_mp,receta[0].cantidad,receta[1].cantidad,receta[2].cantidad,receta[0].um,receta[1].um,receta[1].id
+65052bec4459e1cd62f7d810,1,Lagers,800,1,2,3,1,3,100,50,25,L,K,2
+65052c164459e1cd62f7d812,2,Ales,700,1,2,3,1,3,50,25,10,L,K,2
+65052c724459e1cd62f7d814,3,Fannys,300,1,2,3,1,3,75,30,5,L,K,2

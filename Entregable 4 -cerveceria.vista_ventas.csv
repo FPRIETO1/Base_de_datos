@@ -1,0 +1,5 @@
+_id,id,id_produccion,nombre,cantidad,precio_unitario,Precio_total
+65052f984459e1cd62f7d81f,1,1,Lagers,200,13.4,2680
+650530104459e1cd62f7d821,2,2,Ales,300,12.5,3750
+650530524459e1cd62f7d823,3,3,Fannys,500,20,6000
+650530c64459e1cd62f7d827,4,3,Fannys,200,20,4000
